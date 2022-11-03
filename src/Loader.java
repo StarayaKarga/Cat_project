@@ -9,5 +9,6 @@ public class Loader
         System.out.println(cat.getWeight());
         cat.feed(12.0);
         System.out.println(cat.getStatus());
+        System.out.println();
     }
 }
